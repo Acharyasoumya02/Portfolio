@@ -126,7 +126,7 @@ const App = () => {
               className="text-2xl font-bold text-slate-800 dark:text-white"
               whileHover={{ scale: 1.05 }}
             >
-              SA
+              Soumya Ranjan Acharya
             </motion.div>
             
             {/* Desktop Navigation */}
