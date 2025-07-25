@@ -56,7 +56,7 @@ const App = () => {
       },
       {
         name: "Odisha House Price Prediction",
-        link: "https://github.com/Acharyasoumya02/ODISHA_HOUSE_PRICE_PREDICTION/tree/main",
+        link: "https://odisha-house-price-prediction.onrender.com",
         description: "Developed a machine learning-based regression model to predict house prices across various districts in Odisha. Visualized data trends and model performance using Matplotlib for better insight and interpretation."
       },
       {
